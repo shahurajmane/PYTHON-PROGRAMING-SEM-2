@@ -1,6 +1,6 @@
 # calculate simple interest using a function with parameters for principal, rate, and time
 """
-Created on Tue Feb 10 09:56:54 2026
+Created on Mon Mar 23 03:01:54 2026
 
 @author: Shahuraj Mane
 """
