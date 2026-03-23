@@ -1,6 +1,6 @@
-# Check leap year
+# generate a number pattern using nested loops
 """
-Created on Tue Feb 10 09:54:54 2026
+Created on Mon Mar 23 03:12:57 2026
 
 @author: Shahuraj Mane
 """
